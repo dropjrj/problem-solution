@@ -32,6 +32,7 @@ int main()
                     }
                     if (found) break;
                 }
+                if (found) break;
             }
             if (found) break;
         }
@@ -40,4 +41,3 @@ int main()
     }
     return 0;
 }
-
